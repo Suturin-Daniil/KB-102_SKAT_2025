@@ -14,4 +14,4 @@
 
 - **Смета** - смета на полетный контроллер и ЛА 
 
-График работ (https://docs.google.com/spreadsheets/d/1UZDRZltZuPk5OZz9JiypNUQHBQA8Coyx/edit?usp=sharing&ouid=111248235602159075678&rtpof=true&sd=true)
+График работ (https://docs.google.com/spreadsheets/d/1Ai561YD3pveuWQ94UG-KR7Bczuf3N7FS/edit?usp=sharing&ouid=111248235602159075678&rtpof=true&sd=true)
