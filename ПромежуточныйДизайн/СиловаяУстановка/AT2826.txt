@@ -1,3 +1,0 @@
-kv	resistance	idelecurrent	mass
-900	0.024	2.2	0.175
-1100	0.110	2.9	0.175
