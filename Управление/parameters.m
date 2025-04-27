@@ -51,6 +51,6 @@ param.R = 3.36e-2; % Сопротивление обмотки
 param.i0 = 1.2; % Ток холостого хода
 param.BatteryVoltage = 14.8; % Номинальное напряжение батареи
 
-param.Zmotor = 0.005; % 
+param.MotorPosition = [0.2; 0; -0.005]; % Положение мотора относительно ЦМ
 
 paramInfo = Simulink.Bus.createObject(param);
