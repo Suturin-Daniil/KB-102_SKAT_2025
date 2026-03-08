@@ -1,3 +1,5 @@
+![.](https://github.com/Suturin-Daniil/KB-102_SKAT_2025/blob/main/Untitled.gif)
+
 ![.](https://github.com/Suturin-Daniil/KB-102_SKAT_2025/blob/main/plane.jpg)
 
 # Репозиторий команды КБ-102
